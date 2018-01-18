@@ -1,5 +1,5 @@
 <?php
-        $myPDO = new PDO('sqlite:G:\Projects\telegram-bot\newsRSS\news.db');
+        $myPDO = new PDO('sqlite:[Directory]');
 ?>
 
 <!doctype html>
